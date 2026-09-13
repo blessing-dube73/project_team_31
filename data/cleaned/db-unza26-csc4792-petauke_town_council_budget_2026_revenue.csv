@@ -1,0 +1,63 @@
+sn|category|code|revenue_item|approved_budget_2026|revised_budget_2027|budget_estimate_2028|source_page
+1|Local taxes/rates|001|Residential|2000000|2000000|2000000|2
+2|Local taxes/rates|002|Commercial|2000000|2000000|2000000|2
+3|Local taxes/rates|001|Personal levy|73500|80850|97020|2
+4|Fees and Charges|002|Survey fees|38000|41800|50160|2
+5|Fees and Charges|003|Building inspection-fees|40100|44110|52932|2
+6|Fees and Charges|004|Plan scrutiny fee|131510|144661|173593|2
+7|Fees and Charges|005|Change of premise use|6600|7260|8712|2
+8|Fees and Charges|007|Rentals/lease of Council’s properties|529200|582120|698544|2
+9|Fees and Charges|008|Non-Land Application forms fees|277750|305525|366630|2
+10|Fees and Charges|011|Search fees|3000|3300|3960|2
+11|Fees and Charges|013|Market fees|604460|664906|797887|2
+12|Fees and Charges|014|Parking fees|184320|202752|243304|2
+13|Fees and Charges|016|Loading fees (buses, trucks, trains, taxies etc.)|193520|212872|255446|2
+14|Fees and Charges|017|Affidavit fees|26500|29150|34980|2
+15|Fees and Charges|020|Hire of halls|4000|4400|5280|2
+16|Fees and Charges|031|Motorbike and Bicycle fees|213120|234432|281318|2
+17|Fees and Charges|033|Refuse disposal|11400|12540|15048|2
+18|Fees and Charges|042|Animal Ante mortem fees|70000|77000|91000|2
+19|Fees and Charges|045|Notice of marriage fees|40100|44110|52932|2
+20|Fees and Charges|046|Abattoir/meat inspection fees|78000|85800|102960|2
+21|Fees and Charges|047|Registration of clubs and societies|100500|110550|130650|2
+22|Fees and Charges|051|Farm produce Fee|443300|487630|585156|2
+23|Fees and Charges|056|Repairs of cars/garage/car wash|2000|2200|2640|2
+24|Fees and Charges|059|Land Record|30000|33000|39600|2
+25|Fees and Charges|063|Billboards and banners|108500|119350|143220|2
+26|Fees and Charges|064|Hire of Transport and Equipment|37000|40700|48840|2
+27|Fees and Charges|065|Council Minutes Extracts|107400|118140|141768|2
+28|Fees and Charges|066|Penalties|100892|110981|131160|2
+29|Fees and Charges|069|Laboratory charges|15000|16500|19800|2
+30|Fees and Charges|099|Other fees and charges|30000|33000|39600|2
+31|Licenses|002|Liquor licence|18576|20434|24520|2
+32|Licenses|003|Firearm and ammunition licence|8225|9048|10857|2
+33|Licenses|099|Other Licences|10000|11000|13200|2
+34|Levies|001|Livestock Movement levy|48000|52800|62400|3
+35|Levies|003|Fish levy|2000|2200|2600|3
+36|Levies|004|Pole levy|2002|2002|2643|3
+37|Levies|006|Sand levy|10000|11000|13200|3
+38|Levies|011|Telecommunication Mast|115000|126500|149500|3
+39|Levies|017|Trading (Wholesale) Business Levy|78348|86183|101852|3
+40|Levies|018|Trading (Retail) Consumable groceries business|453766|499143|598971|3
+41|Levies|019|Retail Merchants non-consumable business|242600|266860|315380|3
+42|Levies|020|Trading (Retail) chain stores and supermarkets|26672|29339|35207|3
+43|Levies|021|Manufacturing|90000|99000|118800|3
+44|Levies|028|Filling Station|19980|21978|26374|3
+45|Levies|032|Hospitality|78100|85910|103092|3
+46|Levies|033|Commercial Banks|67000|73700|88440|3
+47|Permits|001|Health permits|472420|519662|614146|3
+48|Permits|007|Nursery, pre-school permits|10000|11000|13200|3
+49|Permits|008|Burial permits and grave sites|18750|20625|24750|3
+50|Permits|009|Fire certificate|872480|959728|1134224|3
+51|Permits|010|Extension of Business hours permits|1000|1100|1320|3
+52|Permits|011|Social gathering permit|7500|8250|9900|3
+53|Charges|001|Service Charges Residential plots|900000|990000|1170000|3
+54|Charges|002|Service Charges Industrial plots|300000|330000|390000|3
+55|Other Incomes|002|Surplus/ Deficit from Commercial Ventures|1300000|1430000|1690000|3
+56|National Support (Grants)|002|Roads Grant|6351370|6351370|6351370|3
+57|National Support (Grants)|003|Health Grant|7201706|7201706|7201706|3
+58|National Support (Grants)|004|Local Government Equalisation Fund|11967775|11967775|11967775|3
+59|National Support (Grants)|005|Grants in lieu of Rates|800000|800000|800000|3
+60|National Support (Grants)|099|Other Grants|16763610|16763610|16763610|3
+61|Donor Support (Grants)|001|Devolution Capital Grant|8340000|8340000|8340000|4
+62|Local Development Fund|001|Constituency Development Fund|80065100|88071610|105685932|4
