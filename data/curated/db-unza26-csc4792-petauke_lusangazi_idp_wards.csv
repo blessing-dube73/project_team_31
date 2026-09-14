@@ -1,0 +1,21 @@
+record_id|council_name|source_document|sn|ward|constituency|district|n1|n2|facility|source_page|category|ward_code|chiefdom
+1|Petauke Town Council|Petauke.Lusangazi-Joint-IDP-Final.pdf|1|Kaumbwe|Kaumbwe|Petauke|1|3|Rural Health Centers 1 hospital|27|IDP_WARDS|PET-W-001|Mwanjawanthu
+2|Petauke Town Council|Petauke.Lusangazi-Joint-IDP-Final.pdf|2|Ongolwe|Petauke Central|Petauke|2|4||27|IDP_WARDS|PET-W-002|Kalindawalo / Mumbi / Nyamphande
+3|Petauke Town Council|Petauke.Lusangazi-Joint-IDP-Final.pdf|3|Lusinde|Kaumbwe|Petauke|1|3||27|IDP_WARDS|PET-W-003|Mwanjawanthu
+4|Petauke Town Council|Petauke.Lusangazi-Joint-IDP-Final.pdf|4|Mawanda|Msanzala|Lusangazi|4|8||27|IDP_WARDS|LUS-W-004|Sandwe / Nyamphande
+5|Petauke Town Council|Petauke.Lusangazi-Joint-IDP-Final.pdf|5|Mbala|Petauke Central|Petauke|3|4|1general hospital|27|IDP_WARDS|PET-W-005|Kalindawalo / Mumbi / Nyamphande
+6|Petauke Town Council|Petauke.Lusangazi-Joint-IDP-Final.pdf|6|Mateyo Mzeka|Petauke Central|Petauke|3|3||27|IDP_WARDS|PET-W-006|Kalindawalo / Mumbi / Nyamphande
+7|Petauke Town Council|Petauke.Lusangazi-Joint-IDP-Final.pdf|7|Chisangu|Msanzala|Lusangazi|1|3||27|IDP_WARDS|LUS-W-007|Sandwe / Nyamphande
+8|Petauke Town Council|Petauke.Lusangazi-Joint-IDP-Final.pdf|8|Msumbazi|Petauke Central|Petauke|1|6||27|IDP_WARDS|PET-W-008|Kalindawalo / Mumbi / Nyamphande
+9|Petauke Town Council|Petauke.Lusangazi-Joint-IDP-Final.pdf|9|Singozi|Petauke Central|Petauke|2|3||27|IDP_WARDS|PET-W-009|Kalindawalo / Mumbi / Nyamphande
+10|Petauke Town Council|Petauke.Lusangazi-Joint-IDP-Final.pdf|10|Manyane|Kaumbwe|Petauke|4|4||27|IDP_WARDS|PET-W-010|Mwanjawanthu
+11|Petauke Town Council|Petauke.Lusangazi-Joint-IDP-Final.pdf|11|Ukwimi|Msanzala|Lusangazi|6|8||27|IDP_WARDS|LUS-W-011|Sandwe / Nyamphande
+12|Petauke Town Council|Petauke.Lusangazi-Joint-IDP-Final.pdf|12|Chilimanyama|Petauke Central|Petauke|2|2||27|IDP_WARDS|PET-W-012|Kalindawalo / Mumbi / Nyamphande
+13|Petauke Town Council|Petauke.Lusangazi-Joint-IDP-Final.pdf|13|Kovyane|Petauke Central|Petauke|2|4||27|IDP_WARDS|PET-W-013|Kalindawalo / Mumbi / Nyamphande
+14|Petauke Town Council|Petauke.Lusangazi-Joint-IDP-Final.pdf|14|Nyakawise|Petauke Central|Petauke|2|3||27|IDP_WARDS|PET-W-014|Kalindawalo / Mumbi / Nyamphande
+15|Petauke Town Council|Petauke.Lusangazi-Joint-IDP-Final.pdf|15|Manjazi|Kaumbwe|Petauke|2|4||27|IDP_WARDS|PET-W-015|Mwanjawanthu
+16|Petauke Town Council|Petauke.Lusangazi-Joint-IDP-Final.pdf|16|Kanyanga|Kaumbwe|Petauke|2|3||27|IDP_WARDS|PET-W-016|Mwanjawanthu
+17|Petauke Town Council|Petauke.Lusangazi-Joint-IDP-Final.pdf|17|Lutwazi|Msanzala|Petauke|1|2||27|IDP_WARDS|PET-W-017|Sandwe / Nyamphande
+18|Petauke Town Council|Petauke.Lusangazi-Joint-IDP-Final.pdf|18|Nyika|Petauke Central|Petauke|4|4|1district hospital|27|IDP_WARDS|PET-W-018|Kalindawalo / Mumbi / Nyamphande
+19|Petauke Town Council|Petauke.Lusangazi-Joint-IDP-Final.pdf|19|Nsimbo|Petauke Central|Petauke|1|2||27|IDP_WARDS|PET-W-019|Kalindawalo / Mumbi / Nyamphande
+20|Petauke Town Council|Petauke.Lusangazi-Joint-IDP-Final.pdf|20|Lusangazi|Msanzala|Lusangazi|2|2||27|IDP_WARDS|LUS-W-020|Sandwe / Nyamphande
