@@ -1,0 +1,20 @@
+column|dtype|description|example|source|missing_count|missing_pct|unique_values
+project_id|string|Globally unique project identifier, prefixed by source file (KPR=Kaumbwe Proposed, KNA=Kaumbwe Not Approved, PCA=Petauke Central Approved)|KPR-1|Derived from No. + source prefix|0|0.0|219
+project_name|string|Short title of the project|Classroom Block|Project Name (raw)|0|0.0|48
+project_description|string|Detailed description of the works|1x2 Classroom Block|Project Description (raw)|0|0.0|59
+sector|categorical|Standardised sector of intervention|Education|Sector → Title Case + synonym merge|4|1.83|9
+project_type|string|Nature of the intervention|Construction of 1x2 Classroom Block|Type of Project (raw)|0|0.0|61
+province|categorical|Province where the project is located|Muchinga|Inferred from source file|0|0.0|2
+district|categorical|District where the project is located|Kaumbwe|Inferred from source file|0|0.0|2
+constituency|categorical|Constituency of the project|Kaumbwe|Constituency (raw, Title Case)|0|0.0|2
+ward|categorical|Ward of the project|Kanyanga|Ward (raw, Title Case)|0|0.0|14
+project_site|string|Specific site or community where the project is located|Kanyanga B School|Project Site/Location (raw, cleaned)|10|4.57|103
+amount_requested_zmw|float|Amount requested in Zambian Kwacha (ZMW)|70000.0|Project Amount Requested → numeric|43|19.63|53
+approved_amount_zmw|float|Amount approved in ZMW (Petauke only)|500000.0|Approved Amount → numeric|199|90.87|3
+effective_amount_zmw|float|Effective amount = approved if present, else requested|70000.0|Derived: approved.fillna(requested)|23|10.5|55
+amount_category|categorical|Binned amount: Low (<100K), Medium (100K–1M), High (>1M), Unknown|Low (<100K)|Derived from effective_amount_zmw|0|0.0|4
+has_amount|binary|1 if any amount is present, 0 otherwise|1|Derived: effective_amount_zmw.notna()|0|0.0|2
+year_funded|integer|Year the project was funded or proposed|2025|Year Funded (Petauke) / filename (Kaumbwe)|0|0.0|2
+status|categorical|Approval status: Proposed, Not Approved, Approved|Proposed|Inferred from source filename|0|0.0|3
+comments|string|Reason for non-approval (Kaumbwe Not Approved only)|Funds were not adequate for all projects to be approved|COMMENTS (raw)|126|57.53|1
+source_file|string|Original CSV filename the row came from|2025-PROPOSED-COMMUNITY-PROJECTS-KAUMBWE2.csv|Metadata added during ingestion|0|0.0|3
