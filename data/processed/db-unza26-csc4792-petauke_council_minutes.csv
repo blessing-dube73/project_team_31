@@ -1,0 +1,36 @@
+council_name|council_type|province|constituency|ward|councillor_name|role_category|raw_position|chief|is_vacant|source_file
+Petauke Town Council|Town Council|Eastern|||Banda Edward|Council Chairperson|Council Chairman||False|../data/processed/db-unza26-csc4792-petauke_council_minutes.csv
+Petauke Town Council|Town Council|Eastern|||Lameck Tembo|Council Chairperson|Deputy Council Chairperson||False|../data/processed/db-unza26-csc4792-petauke_council_minutes.csv
+Petauke Town Council|Town Council|Eastern|Petauke Central|Chilimanyama|Isaac Phiri|Ward Councillor|Chilimanyama Ward||False|../data/processed/db-unza26-csc4792-petauke_council_minutes.csv
+Petauke Town Council|Town Council|Eastern|Petauke Central|Chilimanyama|Phiri Isaac|Ward Councillor|Chilimanyama Ward||False|../data/processed/db-unza26-csc4792-petauke_council_minutes.csv
+Petauke Town Council|Town Council|Eastern|Kaumbwe|Kanyanga|Mumba Samson|Ward Councillor|Kanyanga Ward||False|../data/processed/db-unza26-csc4792-petauke_council_minutes.csv
+Petauke Town Council|Town Council|Eastern|Kaumbwe|Kanyanga|Samson J. Mumba|Ward Councillor|Kanyanga Ward||False|../data/processed/db-unza26-csc4792-petauke_council_minutes.csv
+Petauke Town Council|Town Council|Eastern|Kaumbwe|Kaumbwe|Ndhlovu Salome|Ward Councillor|Kaumbwe Ward||False|../data/processed/db-unza26-csc4792-petauke_council_minutes.csv
+Petauke Town Council|Town Council|Eastern|Kaumbwe|Kaumbwe|Salome Ndlovu|Ward Councillor|Kaumbwe Ward||False|../data/processed/db-unza26-csc4792-petauke_council_minutes.csv
+Petauke Town Council|Town Council|Eastern|Petauke Central|Kovyane|Daka Lovemore|Ward Councillor|Kovyane Ward||False|../data/processed/db-unza26-csc4792-petauke_council_minutes.csv
+Petauke Town Council|Town Council|Eastern|Petauke Central|Kovyane|Lovemore Daka|Ward Councillor|Kovyane Ward||False|../data/processed/db-unza26-csc4792-petauke_council_minutes.csv
+Petauke Town Council|Town Council|Eastern|Kaumbwe|Lusinde|Misheck Phiri|Ward Councillor|Lusinde Ward||False|../data/processed/db-unza26-csc4792-petauke_council_minutes.csv
+Petauke Town Council|Town Council|Eastern|Kaumbwe|Lusinde|Phiri Misheck|Ward Councillor|Lusinde Ward||False|../data/processed/db-unza26-csc4792-petauke_council_minutes.csv
+Petauke Town Council|Town Council|Eastern|Kaumbwe|Manjazi|Aaron Tembo|Ward Councillor|Manjazi Ward||False|../data/processed/db-unza26-csc4792-petauke_council_minutes.csv
+Petauke Town Council|Town Council|Eastern|Kaumbwe|Manjazi|Tembo Aaron|Ward Councillor|Manjazi Ward||False|../data/processed/db-unza26-csc4792-petauke_council_minutes.csv
+Petauke Town Council|Town Council|Eastern|Kaumbwe|Manyane|Christopher Sakala|Ward Councillor|Manyane Ward||False|../data/processed/db-unza26-csc4792-petauke_council_minutes.csv
+Petauke Town Council|Town Council|Eastern|Petauke Central|Mbalala|Lungu Tedson|Ward Councillor|Mbalala Ward||False|../data/processed/db-unza26-csc4792-petauke_council_minutes.csv
+Petauke Town Council|Town Council|Eastern|Petauke Central|Mbalala|Tedson Lungu|Ward Councillor|Mbalala Ward||False|../data/processed/db-unza26-csc4792-petauke_council_minutes.csv
+Petauke Town Council|Town Council|Eastern|Petauke Central|Minga|Mumba Sign|Ward Councillor|Minga Ward||False|../data/processed/db-unza26-csc4792-petauke_council_minutes.csv
+Petauke Town Council|Town Council|Eastern|Petauke Central|Minga|Sign Mumba|Ward Councillor|Minga Ward||False|../data/processed/db-unza26-csc4792-petauke_council_minutes.csv
+Petauke Town Council|Town Council|Eastern|Petauke Central|Msumbazi|Tembo Lameck|Ward Councillor|Msumbazi Ward||False|../data/processed/db-unza26-csc4792-petauke_council_minutes.csv
+Petauke Town Council|Town Council|Eastern|Petauke Central|Nsimbo|Wina Namakando|Ward Councillor|Nsimbo Ward||False|../data/processed/db-unza26-csc4792-petauke_council_minutes.csv
+Petauke Town Council|Town Council|Eastern|Petauke Central|Nyika|Kelvin Phiri|Ward Councillor|Nyika Ward||False|../data/processed/db-unza26-csc4792-petauke_council_minutes.csv
+Petauke Town Council|Town Council|Eastern|Petauke Central|Nyika|Phiri Kelvin|Ward Councillor|Nyika Ward||False|../data/processed/db-unza26-csc4792-petauke_council_minutes.csv
+Petauke Town Council|Town Council|Eastern|Petauke Central|Ongolwe|Francis Mwanza|Ward Councillor|Ongolwe Ward||False|../data/processed/db-unza26-csc4792-petauke_council_minutes.csv
+Petauke Town Council|Town Council|Eastern|Petauke Central|Ongolwe|Mwanza Francis|Ward Councillor|Ongolwe Ward||False|../data/processed/db-unza26-csc4792-petauke_council_minutes.csv
+Petauke Town Council|Town Council|Eastern|||Banda C.N|Chief's Representative|Chieftainess Mwanjawatnhu|Chieftainess Mwanjawatnhu|False|../data/processed/db-unza26-csc4792-petauke_council_minutes.csv
+Petauke Town Council|Town Council|Eastern|||Tembo Peterkin|Chief's Representative|Chief Mumbi|Chief Mumbi|False|../data/processed/db-unza26-csc4792-petauke_council_minutes.csv
+Petauke Town Council|Town Council|Eastern|||Vacant|Chief's Representative|SNR Chief Kalindawalo|SNR Chief Kalindawalo|True|../data/processed/db-unza26-csc4792-petauke_council_minutes.csv
+Petauke Town Council|Town Council|Eastern|||Pastor Mundia T.|Council Chaplain|Council Chaplain||False|../data/processed/db-unza26-csc4792-petauke_council_minutes.csv
+Petauke Town Council|Town Council|Eastern|||Enock K. Ngulube|Other|Director HR & Administration||False|../data/processed/db-unza26-csc4792-petauke_council_minutes.csv
+Petauke Town Council|Town Council|Eastern|||Hellen Nyangu|Other|Director Health Services||False|../data/processed/db-unza26-csc4792-petauke_council_minutes.csv
+Petauke Town Council|Town Council|Eastern|||James Sikazindu|Other|District Fisheries & Livestock Off.||False|../data/processed/db-unza26-csc4792-petauke_council_minutes.csv
+Petauke Town Council|Town Council|Eastern|||Kelvin Banda|Other|Council Secretary||False|../data/processed/db-unza26-csc4792-petauke_council_minutes.csv
+Petauke Town Council|Town Council|Eastern|||Robbie M Musendo|Other|District Agriculture Coordinator||False|../data/processed/db-unza26-csc4792-petauke_council_minutes.csv
+Petauke Town Council|Town Council|Eastern|||Sakala Christopher|Other|Manyane||False|../data/processed/db-unza26-csc4792-petauke_council_minutes.csv
